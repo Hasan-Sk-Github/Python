@@ -1,4 +1,4 @@
 # Python
-python practice project
+Python Project
 commit
-print(""Hasan Sk")
+print("Hasan Sk")
